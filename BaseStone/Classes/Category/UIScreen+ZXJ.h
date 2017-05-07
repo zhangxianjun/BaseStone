@@ -10,4 +10,10 @@
 
 @interface UIScreen (ZXJ)
 
+// 获取屏幕的宽度
++ (CGFloat)zxj_getWidth;
+
+// 获取屏幕的高度
++ (CGFloat)zxj_getHeight;
+
 @end

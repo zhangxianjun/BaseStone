@@ -10,4 +10,12 @@
 
 @implementation UIScreen (ZXJ)
 
++ (CGFloat)zxj_getWidth {
+    return UIScreen.mainScreen.bounds.size.width;
+}
+
++ (CGFloat)zxj_getHeight {
+    return UIScreen.mainScreen.bounds.size.height;
+}
+
 @end
