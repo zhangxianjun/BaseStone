@@ -1,4 +1,5 @@
 # BaseStone
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/maodenden/BaseStone.svg?style=flat)](https://travis-ci.org/maodenden/BaseStone)
 [![Version](https://img.shields.io/cocoapods/v/BaseStone.svg?style=flat)](http://cocoapods.org/pods/BaseStone)
@@ -27,3 +28,6 @@ maodenden, 1581758003@qq.com
 ## License
 
 BaseStone is available under the MIT license. See the LICENSE file for more info.
+=======
+积累的基础类库
+>>>>>>> 27dd81d2dcbdc6c1a852fcf9c56ee6c00d37e063

@@ -1,0 +1,16 @@
+PODS:
+  - BaseStone (0.1.0)
+
+DEPENDENCIES:
+  - BaseStone (from `../`)
+
+EXTERNAL SOURCES:
+  BaseStone:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BaseStone: 03f9843dc7c9efc2259ef07f69067c60fb08610a
+
+PODFILE CHECKSUM: 0cd3946bf2575c0d4b2f45c2de9f8b3ed6005924
+
+COCOAPODS: 1.2.1
